@@ -3,20 +3,18 @@ Read and parse ini file.
 
 Sample ini form
 
-[AGENT_INFO]
-SERVER=DEV
-CHARSET=UTF-8
-EDMS=WDMS
-
-
-[WAS_INFO]
-DEBUG=TRUE
-LOG_LEVEL=9
-MOBILE_USE=T
-#MOBILE_USE=F
-MOBILE_MODE=EDIT
-
-
+[AGENT_INFO]<br />
+SERVER=DEV<br />
+CHARSET=UTF-8<br />
+EDMS=WDMS<br />
+<br />
+[WAS_INFO]<br />
+DEBUG=TRUE<br />
+LOG_LEVEL=9<br />
+MOBILE_USE=T<br />
+#MOBILE_USE=F<br />
+MOBILE_MODE=EDIT<br />
+<br />
 Sample usage
 
 - read ini
