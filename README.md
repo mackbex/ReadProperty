@@ -15,7 +15,7 @@ MOBILE_USE=T<br />
 #MOBILE_USE=F <- # started line will be ignored.<br />
 MOBILE_MODE=EDIT<br />
 <br />
-Sample usage
+*Sample usage*
 
 - read ini
  ReadProperty(str ini file path)
@@ -24,3 +24,5 @@ Sample usage
  getString(str section, str key, str default value)
  
 
+
+PS. write section and value will be updated soon.
