@@ -25,4 +25,4 @@ MOBILE_MODE=EDIT<br />
  
 
 
-PS. write section and value will be updated soon.
+PS. save section and value will be updated soon.
