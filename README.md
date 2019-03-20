@@ -1,7 +1,7 @@
 # ReadProperty
 Read and parse ini file.
 
-Sample ini form
+Sample ini form (conf.ini)
 
 [AGENT_INFO]<br />
 SERVER=DEV<br />
@@ -12,7 +12,7 @@ EDMS=WDMS<br />
 DEBUG=TRUE<br />
 LOG_LEVEL=9<br />
 MOBILE_USE=T<br />
-#MOBILE_USE=F<br />
+#MOBILE_USE=F <- # started line will be ignored.<br />
 MOBILE_MODE=EDIT<br />
 <br />
 Sample usage
